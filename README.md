@@ -1,2 +1,5 @@
 # OOSD-Project-Workshop-1
-In order that employees of Travel Experts can administer the data stored on their database, they need an application that will provide a graphical interface for viewing and modifying the data.  At this point, they have identified the tables that are most important, and request that access to these be developed as a prototype.
+Project Workshop – CMPP249 HTML/JavaScript/CSS 
+</br><b>Topic: </b>Creation of an HTML/JavaScript/CSS based Website prototype.
+</br><b>Description: </b>Teams will design and construct a prototype web-site for the Travel Experts travel agency.  A survey of travel-related websites is encouraged.
+
